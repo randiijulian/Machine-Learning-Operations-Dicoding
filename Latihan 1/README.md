@@ -8,6 +8,7 @@
 </div>
 
 # Latihan 1: Pembuatan Komponen Pengolahan Data dalam Machine Learning Pipeline
+Nama: Randi Julian Saputra
 Username dicoding: randijulian
 
 <div align="center">
